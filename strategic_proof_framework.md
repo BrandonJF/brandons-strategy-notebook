@@ -323,18 +323,6 @@ At each major reasoning step, assess:
 - **Alternative Path Analysis:** Are other viable approaches considered and compared?
 - **Learning Integration:** Does the reasoning incorporate lessons from previous experiences?
 
-#### Enhanced Annotation System:
-Mark every claim that needs support with explanatory reasoning:
-
-- **[CITATION NEEDED: what type of evidence would support this claim]**
-- **[ASSUMPTION: why this belief requires validation rather than being provable]**
-- **[STRATEGIC CHOICE: rationale for this decision among alternatives]**
-- **[LOGICAL GAP: what reasoning step is missing between premise and conclusion]**
-- **[DEPENDENCY: which other decision or outcome this relies upon]**
-- **[EXTERNALITY: what outside factor could invalidate this reasoning]**
-- **[REVERSIBILITY: cost and feasibility of undoing this decision]**
-- **[CONFIDENCE: HIGH/MED/LOW - basis for certainty level]**
-
 ---
 
 ### 2.5 VALIDATION FRAMEWORK (Strategic Test-Driven Development)
@@ -733,7 +721,7 @@ This decision builds on prior decisions about:
 ## 5. STRATEGIC PROOF ANALYSIS METHODOLOGY
 
 ### PURPOSE AND APPROACH
-This section provides a systematic way to analyze and evaluate strategic proofs. Whether you're reviewing your own work, getting peer feedback, or developing automated analysis systems, this approach ensures thorough assessment of logical rigor and strategic soundness.
+This section provides a systematic way to analyze and evaluate strategic proofs. **Every strategic proof should be evaluated before execution** - primarily by the person who created it, but also potentially through peer review or automated analysis. This approach ensures thorough assessment of logical rigor and strategic soundness.
 
 ### ENHANCED ANNOTATION SYSTEM
 When analyzing a strategic proof, annotate directly in the text using these categories. Each annotation must include explanatory reasoning:

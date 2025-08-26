@@ -23,11 +23,12 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 **STRATEGIC FOCUS: This framework is for justifying CHOICES, not planning EXECUTION.**
 
 **Use this framework for:**
-- **Strategic choice decisions:** "Should we pursue approach A, B, or C for capital optimization?"
-- **Resource allocation decisions:** "How should we distribute limited resources across competing priorities?"
-- **Market positioning decisions:** "Which strategic position optimizes our competitive advantage?"
-- **Partnership strategy decisions:** "Should we build, buy, or partner to achieve this capability?"
-- **Risk/investment tradeoff decisions:** "What level of risk should we accept for this potential return?"
+- **Strategic navigation decisions:** "How do we optimally navigate system constraints to achieve outcome X while accounting for change and uncertainty?"
+- **Resource allocation within systems:** "How should we deploy limited capital across time given system dynamics and evolving constraints?"
+- **Market positioning with temporal dynamics:** "How do we position strategically given current system state and anticipated system changes?"
+- **Capability development strategy:** "How do we build capabilities over time given system constraints and competitive dynamics?"
+- **Risk/uncertainty management:** "How do we navigate uncertainty while optimizing capital allocation within system constraints?"
+- **Alternative comparison:** "Given system constraints and dynamics, which approach optimizes our strategic position?"
 
 **DO NOT use this framework for:**
 - **Tactical execution planning:** "Day 1: Do X, Day 2: Do Y, Day 3: Do Z"
@@ -35,7 +36,14 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 - **Operational procedures:** How to implement processes once strategic choice is made
 - **Implementation details:** Technical specifications, workflow optimization, quality control
 
-**STRATEGIC TEST:** If your document primarily answers "How should we execute this approach?" rather than "Why should we choose this approach over alternatives?" - you need different planning tools, not this framework.
+**STRATEGIC TEST:** If your document primarily answers "How should we execute this approach?" rather than "How do we optimally navigate system constraints and dynamics to achieve our outcome?" - you need different planning tools, not this framework.
+
+**SYSTEM NAVIGATION FOCUS:** Strategic proofs must demonstrate understanding of:
+- Current system state and constraints
+- How system dynamics affect strategy over time
+- How to adapt to changing constraints and opportunities
+- Optimal path through system complexity given uncertainty
+- Capital allocation across time given system evolution
 
 ### How to Get Started
 1. **Define your decision clearly** - What specific choice are you making?
@@ -709,10 +717,10 @@ This decision builds on prior decisions about:
 ✅ **Right:** "THEREFORE we will validate this choice by achieving..." integrated into logical flow
 **Fix:** Eliminate all standalone sections. Everything must flow through logical argument chain with connecting words.
 
-### 3. **Missing Strategic Scope**
-❌ **Wrong:** Document assumes strategic choice already made, focuses only on optimization within that choice
-✅ **Right:** Document justifies why this strategic choice optimizes capital allocation better than alternatives
-**Fix:** Ensure proposition addresses strategic choice between alternatives, not just execution optimization.
+### 3. **Missing Strategic System Navigation Scope**
+❌ **Wrong:** Document assumes strategic approach already selected, focuses only on execution optimization
+✅ **Right:** Document proves how to optimally navigate system constraints and dynamics to achieve outcome, accounting for time and uncertainty
+**Fix:** Ensure proposition addresses system navigation strategy - how to move through constraints optimally over time, not just alternative comparison or execution planning.
 
 ### DETAILED STRATEGIC ERRORS
 

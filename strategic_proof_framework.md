@@ -19,14 +19,23 @@ Strategic decisions operate within complex systems - whether business markets, a
 Throughout this framework, **"capital"** refers to any finite resource you can invest to generate returns - including time, money, attention, relationships, expertise, reputation, energy, and access. Thinking in capital terms forces you to recognize that all resources are scarce and require smart allocation decisions within whatever system you're operating in.
 
 ### When to Use This Framework
-- Major strategic decisions requiring capital optimization within complex systems
-- Initiative planning where system dynamics significantly affect outcomes
-- Investment or resource allocation decisions requiring system navigation
-- Team or group alignment on strategic direction and system understanding
-- Risk assessment and validation planning for system-dependent commitments
-- Process optimization decisions affecting capital efficiency within system constraints
-- Partnership or collaboration strategy requiring multi-system navigation
-- Any decision where capital is scarce and system dynamics determine outcome feasibility
+
+**STRATEGIC FOCUS: This framework is for justifying CHOICES, not planning EXECUTION.**
+
+**Use this framework for:**
+- **Strategic choice decisions:** "Should we pursue approach A, B, or C for capital optimization?"
+- **Resource allocation decisions:** "How should we distribute limited resources across competing priorities?"
+- **Market positioning decisions:** "Which strategic position optimizes our competitive advantage?"
+- **Partnership strategy decisions:** "Should we build, buy, or partner to achieve this capability?"
+- **Risk/investment tradeoff decisions:** "What level of risk should we accept for this potential return?"
+
+**DO NOT use this framework for:**
+- **Tactical execution planning:** "Day 1: Do X, Day 2: Do Y, Day 3: Do Z"
+- **Project management:** Timeline planning, resource scheduling, task coordination
+- **Operational procedures:** How to implement processes once strategic choice is made
+- **Implementation details:** Technical specifications, workflow optimization, quality control
+
+**STRATEGIC TEST:** If your document primarily answers "How should we execute this approach?" rather than "Why should we choose this approach over alternatives?" - you need different planning tools, not this framework.
 
 ### How to Get Started
 1. **Define your decision clearly** - What specific choice are you making?
@@ -485,7 +494,21 @@ By [executing the strategy], we [achieve the outcome] because [synthesis of key 
 
 ### Template Construction Guide
 
-**INTEGRATION PRINCIPLE:** This framework follows a "no orphaned sections" approach - everything should flow naturally through your logical argument chain using connecting words (SINCE, THEREFORE, GIVEN). Only create separate sections when complexity would make integration unclear or disruptive.
+**CRITICAL INTEGRATION PRINCIPLE:** This framework requires integrated prose - everything must flow through your logical argument chain using connecting words (SINCE, THEREFORE, GIVEN). **NO ORPHANED SECTIONS ALLOWED.**
+
+**INTEGRATION REQUIREMENTS:**
+- **Validation Framework:** Integrate as "THEREFORE we will validate by achieving..." within logical flow
+- **Decision Interactions:** Handle with premise indicators "GIVEN our dependency on..." or "SINCE prior decision X established..."  
+- **Mathematical Connections:** Embed as "BASED ON [data], TO ACHIEVE [outcome], WE NEED..." within reasoning
+- **All content:** Must connect to previous logical steps using premise indicators
+
+**VIOLATION EXAMPLES:**
+❌ Standalone "VALIDATION FRAMEWORK" section with bullet lists
+❌ Separate "DECISION INTERACTIONS" section disconnected from argument
+❌ Isolated "MATHEMATICAL CONNECTIONS" section not integrated into reasoning
+❌ Any section that doesn't build on previous logical conclusions
+
+**INTEGRATION TEST:** Can you remove any section and still understand the complete strategic argument? If yes, that section is orphaned and violates the framework.
 
 **MANDATORY SECTIONS (Every Strategic Proof Needs These):**
 1. **Proposition** - What you're proving
@@ -674,7 +697,26 @@ This decision builds on prior decisions about:
 
 ## 4. COMMON PITFALLS TO AVOID
 
-### 1. **Strategy vs. Tactics Confusion**
+### FUNDAMENTAL FRAMEWORK VIOLATIONS (Most Critical)
+
+### 1. **Entire Document is Tactical Execution, Not Strategic Choice**
+❌ **Wrong:** Document focuses on "Day 1: Do X, Day 2: Do Y, Day 3: Do Z" execution timeline
+✅ **Right:** Document proves "We should choose approach X over alternatives Y and Z because..."
+**Fix:** Restructure to focus on strategic choice justification rather than execution planning. Ask "Why this approach?" not "How to implement this approach?"
+
+### 2. **Orphaned Sections Violating Integration Principle** 
+❌ **Wrong:** Standalone "VALIDATION FRAMEWORK" section, separate "DECISION INTERACTIONS" section
+✅ **Right:** "THEREFORE we will validate this choice by achieving..." integrated into logical flow
+**Fix:** Eliminate all standalone sections. Everything must flow through logical argument chain with connecting words.
+
+### 3. **Missing Strategic Scope**
+❌ **Wrong:** Document assumes strategic choice already made, focuses only on optimization within that choice
+✅ **Right:** Document justifies why this strategic choice optimizes capital allocation better than alternatives
+**Fix:** Ensure proposition addresses strategic choice between alternatives, not just execution optimization.
+
+### DETAILED STRATEGIC ERRORS
+
+### 4. **Strategy vs. Tactics Confusion**
 ❌ **Wrong:** "We will use React for the frontend" (implementation detail without strategic rationale)
 ✅ **Right:** "We will build a web-based interface to optimize user adoption capital" (strategic positioning with capital logic)
 

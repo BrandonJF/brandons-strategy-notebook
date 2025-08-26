@@ -9,14 +9,14 @@
 This framework helps anyone create logically sound strategic arguments for important decisions. Based on mathematical proof principles and systems thinking, it ensures decisions are grounded in evidence and reasoning rather than assumptions or intuition.
 
 ### Systems Thinking Foundation
-Strategic decisions operate within complex systems - whether business markets, academic fields, personal relationships, or policy environments. Effective strategy requires first mapping the system accurately, then finding optimal paths through it. This framework structures that process:
+Strategic decisions operate within complex systems - whether business markets, academic fields, personal relationships, or policy environments. **Systems thinking** means first mapping the environment you're operating in, then finding optimal paths through it, rather than making decisions in isolation. This framework structures that process:
 
-1. **Map the System** (Constraints) - Identify fixed properties, current state, and chosen boundaries
-2. **Navigate the System** (Logic Chain) - Chart the optimal path from current state to desired outcome
-3. **Test System Understanding** (Validation) - Verify your system model through measurable feedback
+1. **Map the System** (Constraints) - Identify what's fixed, what's changeable, and what you're choosing to focus on
+2. **Navigate the System** (Logic Chain) - Chart the optimal path from where you are to where you want to be
+3. **Test System Understanding** (Validation) - Verify your map matches reality through measurable feedback
 
 ### Capital in Strategic Context
-Throughout this framework, "capital" refers to any finite resource that can be invested to generate returns - including time, money, attention, relationships, expertise, reputation, energy, and access. Capital thinking forces recognition that all resources are scarce and require optimization through strategic allocation within system constraints.
+Throughout this framework, **"capital"** refers to any finite resource you can invest to generate returns - including time, money, attention, relationships, expertise, reputation, energy, and access. Thinking in capital terms forces you to recognize that all resources are scarce and require smart allocation decisions within whatever system you're operating in.
 
 ### When to Use This Framework
 - Major strategic decisions requiring capital optimization within complex systems
@@ -142,42 +142,42 @@ Throughout this framework, "capital" refers to any finite resource that can be i
 Constraints define the system you're operating within. Proper constraint mapping is essential for effective system navigation - misunderstanding system properties leads to failed strategies regardless of logical reasoning quality.
 
 #### IMMUTABLE CONSTRAINTS (Fixed System Properties)
-**Purpose:** Unchangeable rules and properties of the system that constrain all actors within it.
+**Purpose:** Unchangeable rules and facts that limit everyone operating in this environment.
 
 **What belongs here:**
 
-**System Rules:**
-- Physical laws, mathematical relationships, or logical requirements that cannot be changed
-- Legal/regulatory frameworks that define system boundaries for all participants  
-- Market structures, competitive dynamics, or institutional frameworks that are fixed
-- Technical limitations or platform constraints that affect all system participants
+**Unchangeable Rules:**
+- Physical laws, mathematical relationships, or logical requirements that can't be changed
+- Legal requirements and regulations that define boundaries for everyone
+- Market structures, competitive dynamics, or institutional frameworks that are established
+- Technical limitations or platform constraints that affect everyone in this space
 
-**System Context:**
-- External timeline requirements imposed by system cycles (academic calendars, budget cycles, seasonal patterns)
-- Historical data and proven performance patterns within this system
-- Actions by other system actors that have already occurred and cannot be reversed
-- Established system norms, protocols, or standards that define operational parameters
+**Fixed Context:**
+- External deadlines imposed by cycles outside your control (academic calendars, budget cycles, seasonal patterns)
+- Historical data and proven performance patterns in this environment
+- Actions by other people or organizations that already happened and can't be undone
+- Established norms, protocols, or standards that define how things work
 
-**Results of prior decisions that cannot be reversed within the system:** (existing contracts, launched products, established relationships, regulatory commitments)
+**Results of prior decisions that can't be reversed:** (existing contracts, launched products, established relationships, regulatory commitments)
 
 #### CURRENT CONSTRAINTS (Current System Position)
-**Purpose:** Your current position within the system - limitations that exist now but could change through separate strategic decisions that modify your system position.
+**Purpose:** Your current position and limitations - things that exist now but could change through separate strategic choices.
 
 **What belongs here:**
 
-**Your System Position:**
-- Current capital levels and proven utilization rates within this system (capabilities, resources, relationships, reputation)
-- Current access levels to system resources, networks, or opportunities that could be expanded
-- Present standing or status within the system that could be improved through positioning decisions
-- Existing relationships or partnerships within the system that could be developed through relationship decisions
+**Your Current Position:**
+- Current capital levels and proven rates of using them effectively (capabilities, resources, relationships, reputation)
+- Current access to opportunities, networks, or resources that could be expanded
+- Present standing or status that could be improved through positioning efforts
+- Existing relationships or partnerships that could be developed through relationship-building efforts
 
-**System Interface Capabilities:**
-- Current ability to influence or interact with other system actors (could be enhanced through capability building)
-- Present tools, processes, or systems for operating within this environment (could be upgraded through investment)
-- Existing channels for accessing system resources or opportunities (could be expanded through strategic effort)
-- Current knowledge or understanding of system dynamics (could be improved through learning initiatives)
+**Your Current Capabilities:**
+- Current ability to influence or work with other people/organizations (could be enhanced through skill building)
+- Present tools, processes, or methods for operating in this environment (could be upgraded through investment)
+- Existing channels for accessing opportunities or resources (could be expanded through strategic effort)
+- Current knowledge or understanding of how things work (could be improved through learning)
 
-**Results of prior decisions that could be changed through other strategic decisions within the system:** (current processes, positioning choices, relationship structures, capability focus areas)
+**Results of prior decisions that could be changed through other strategic choices:** (current processes, positioning choices, relationship structures, capability focus areas)
 
 **How to Handle Decision Dependencies:**
 - **Prior decisions** that created current limitations belong here as constraints
@@ -316,12 +316,12 @@ Other decisions (past or future) should be integrated naturally into your logica
 [Rationale for why this focus provides optimal leverage within system constraints and dynamics]
 ```
 
-#### System Navigation Logical Validation:
+**System Navigation Logical Validation:**
 At each major reasoning step, assess:
-- **System Logic Test:** Does this reasoning step accurately account for system dynamics?
-- **Navigation Necessity:** Does the conclusion follow necessarily from system constraints and prior reasoning?
-- **Alternative Path Analysis:** Are other viable system navigation paths considered and compared?
-- **System Feedback Integration:** Does the reasoning incorporate lessons from previous system interactions?
+- **Logic Test:** Does this reasoning step accurately account for how things actually work?
+- **Navigation Necessity:** Does the conclusion follow necessarily from your constraints and prior reasoning?
+- **Alternative Path Analysis:** Are other viable approaches considered and compared?
+- **Learning Integration:** Does the reasoning incorporate lessons from previous experiences?
 
 #### Enhanced Annotation System:
 Mark every claim that needs support with explanatory reasoning:
@@ -339,9 +339,9 @@ Mark every claim that needs support with explanatory reasoning:
 
 ### 2.5 VALIDATION FRAMEWORK (Strategic Test-Driven Development)
 
-**Core Concept:** Create a comprehensive test suite for your strategic decision that proves it's working as designed and alerts you when fundamental assumptions require revision. Like Test-Driven Development in software, strategic validation defines specific, measurable tests first, then executes strategy with continuous testing.
+**Core Concept:** Create a complete set of tests for your strategic decision that prove it's working as designed and alert you when key assumptions need revision. Like Test-Driven Development in software (where you write tests first, then code to pass the tests), strategic validation means writing measurable tests first, then executing strategy with continuous testing.
 
-**Strategic QA Mindset:** Just as code tests document system behavior, strategic tests should document what your strategy is supposed to accomplish. Anyone should be able to read your validation tests and understand your constraints, expected outcomes, and core assumptions.
+**Strategic QA Mindset:** Just as code tests document what software should do, strategic tests should document what your strategy is supposed to accomplish. Anyone should be able to read your tests and understand your constraints, expected outcomes, and core assumptions.
 
 **Integration with Framework:** Validation connects to other framework sections through your logical argument chain. Where you make claims ("THEREFORE we should achieve X"), you create tests ("IF our reasoning is correct, THEN X should occur by date Y"). This transforms strategy from hope-based to evidence-based decision making.
 
@@ -372,11 +372,11 @@ Like integration tests in software, these validate that your fundamental assumpt
 
 **Baseline Reality Tests** (Current State Validation):
 Test what you believe is true RIGHT NOW - often starts in "red state" and that's valuable information.
-- Validates you understand the system's current state correctly
+- Helps you confirm you understand the current situation correctly
 - Example: "If the investor needs persuading to invest, then asking them today should result in 'no' or significant concerns about our readiness"
 
 **Progress Tracking Tests** (Strategic Movement Validation):
-Test whether your strategic actions are moving the system toward the desired state.
+Test whether your strategic actions are actually moving things toward the desired state.
 - Should transition from RED to GREEN as strategy executes
 - Example: "If our investor persuasion strategy is working, then after presenting the demo and financial projections, they should express specific interest or request due diligence materials"
 
@@ -497,6 +497,8 @@ By [executing the strategy], we [achieve the outcome] because [synthesis of key 
 
 ### Template Construction Guide
 
+**INTEGRATION PRINCIPLE:** This framework follows a "no orphaned sections" approach - everything should flow naturally through your logical argument chain using connecting words (SINCE, THEREFORE, GIVEN). Only create separate sections when complexity would make integration unclear or disruptive.
+
 **MANDATORY SECTIONS (Every Strategic Proof Needs These):**
 1. **Proposition** - What you're proving
 2. **Definitions** - Key terms used in your argument
@@ -605,7 +607,7 @@ This decision builds on prior decisions about:
 ```markdown
 ## MATHEMATICAL CONNECTIONS
 [Detailed calculations connecting strategy to quantitative outcomes]
-[Use patterns from Section 2.4 as needed]
+[Use mathematical patterns from Section 2.4: Capital Efficiency Analysis, Capacity Planning, Portfolio Optimization]
 ```
 
 **Meta-Reasoning Assessment** (Include for complex decisions requiring bias analysis):
@@ -623,7 +625,7 @@ This decision builds on prior decisions about:
 [Foundation: what our constraints enable]
 
 ## WE CHOOSE [MVP development] OVER [feature expansion] BECAUSE
-[Why this optimizes our capital allocation]
+[Why this optimizes our resource allocation]
 
 ## THEREFORE WE WILL VALIDATE BY ACHIEVING
 [Tests for this specific choice]
@@ -632,7 +634,7 @@ This decision builds on prior decisions about:
 **Complex Strategic Direction Decision with Dependencies:**
 ```markdown  
 ## GIVEN [current market position and technical capabilities]
-[Foundation: where we are in the system]
+[Foundation: where we are in the environment]
 
 ## SINCE [prior funding decision established 18-month runway constraint]
 [How previous decision affects current strategy]
@@ -655,17 +657,17 @@ This decision builds on prior decisions about:
 
 **Process Improvement Decision:**
 ```markdown
-## SINCE [current process creates bottlenecks and prior efficiency study identified specific constraints]
-[Foundation combining current state with prior decision results]
+## SINCE [current process creates bottlenecks]
+[Foundation: why change is needed]
 
 ## WE CHOOSE [automated workflow] BECAUSE
-[Simple justification building on established foundation]
+[Simple justification - see choice patterns in Section 2.4 for alternatives structure]
 
 ## BASED ON [current throughput data], TO ACHIEVE [50% efficiency improvement], WE NEED
-[Mathematical validation - needed because proposition claims specific improvement]
+[Mathematical validation - see mathematical patterns in Section 2.4 for detailed approaches]
 
 ## THEREFORE WE WILL VALIDATE BY ACHIEVING
-[Tests for process improvement claims including validation of prior study assumptions]
+[Tests for process improvement claims]
 ```
 
 ### Template Usage Principles
@@ -731,7 +733,7 @@ This decision builds on prior decisions about:
 ## 5. STRATEGIC PROOF ANALYSIS METHODOLOGY
 
 ### PURPOSE AND APPROACH
-This section provides a systematic methodology for analyzing and evaluating strategic proofs. Whether you're reviewing your own work, conducting peer evaluation, or developing automated analysis systems, this approach ensures comprehensive assessment of logical rigor and strategic soundness.
+This section provides a systematic way to analyze and evaluate strategic proofs. Whether you're reviewing your own work, getting peer feedback, or developing automated analysis systems, this approach ensures thorough assessment of logical rigor and strategic soundness.
 
 ### ENHANCED ANNOTATION SYSTEM
 When analyzing a strategic proof, annotate directly in the text using these categories. Each annotation must include explanatory reasoning:
@@ -763,25 +765,22 @@ When analyzing a strategic proof, annotate directly in the text using these cate
 - **[SPECIFICITY: VAGUE - needs measurable criteria]** - For unmeasurable success criteria
 - **[REVERSIBILITY: cost and feasibility of undoing this decision]** - For decisions with unclear exit strategies
 
-### UNIVERSAL VALIDATION QUESTIONS
-Apply these at each major reasoning step:
+### STREAMLINED VALIDATION QUESTIONS
+Apply these systematically during analysis, with specific focus areas indicated by annotation types:
 
-#### Logic Chain Validation:
-1. **Necessity Test:** Does the conclusion follow necessarily from the premises?
-2. **Assumption Test:** What unstated beliefs are required for this reasoning to work?
-3. **Alternative Test:** Could this same reasoning justify a different conclusion?
-4. **Evidence Test:** What specific evidence would make this reasoning stronger?
-5. **Falsification Test:** What would prove this specific reasoning step wrong?
+#### For Logic Chain Analysis:
+1. **Necessity Test:** Does the conclusion follow necessarily from the premises? → Mark [LOGICAL GAP] if not
+2. **Assumption Test:** What unstated beliefs are required? → Mark [HIDDEN ASSUMPTION] for implicit dependencies
+3. **Alternative Test:** Could this reasoning justify different conclusions? → Mark [WEAK LINK] for insufficient justification
+4. **Evidence Test:** What would strengthen this reasoning? → Mark [CITATION NEEDED] for unsupported claims
+5. **Falsification Test:** What would prove this step wrong? → Mark [FALSIFICATION UNCLEAR] for weak falsifiability
 
-#### System Understanding Validation:
-1. **System Model Test:** Does the constraint classification accurately represent system properties?
-2. **System Navigation Test:** Does the chosen path account for relevant system dynamics?
-3. **System Feedback Test:** Do validation milestones actually test system understanding?
+#### For System and Capital Analysis:
+1. **System Model Test:** Do constraints accurately represent system properties? → Mark [CONSTRAINT MISCLASSIFICATION] for categorization errors
+2. **Capital Efficiency Test:** Does the approach optimize allocation given constraints? → Mark [STRATEGIC CHOICE] for unjustified decisions
+3. **Dependency Test:** Are system interdependencies properly acknowledged? → Mark [DEPENDENCY] and [EXTERNALITY] for uncontrolled variables
 
-#### Capital Optimization Validation:
-1. **Capital Efficiency Test:** Does the approach optimize capital allocation given constraints?
-2. **Opportunity Cost Test:** Are alternative capital uses properly considered and compared?
-3. **Capital Sustainability Test:** Can the capital deployment pattern be maintained as required?
+**Usage:** These questions guide where to look for issues. The Enhanced Annotation System (above) provides the specific categories to mark when issues are found, with explanatory reasoning required for each annotation.
 
 ### ANALYSIS OUTPUT FORMAT
 Structure your analysis as:
@@ -866,47 +865,59 @@ For rapid quality assessment or final validation after detailed analysis, verify
 
 ## 6. FRAMEWORK PROCESS
 
-### Phase 1: Information Gathering (Before Writing)
-1. **Map decision landscape:** What other decisions does this interact with?
-2. **Classify constraints:** Sort limitations into Immutable/Current/Chosen categories
-3. **Research alternatives:** What other approaches could work?
-4. **Gather evidence:** Data supporting key assumptions and choices
-5. **Define success:** What specific outcome proves this works?
+### Strategic Proof Development Process
+This process is specifically designed for the systems thinking + capital optimization + strategic TDD approach of this framework:
 
-### Phase 2: Initial Draft
-1. **Write proposition first:** Force clarity on what you're proving
-2. **Define all terms:** Prevent ambiguity that weakens reasoning
-3. **Classify constraints properly:** Avoid mixing facts with choices
-4. **Map dependencies:** Identify all decision interactions
-5. **Build argument chain:** Each step should reference previous conclusions
+### Phase 1: Environment and Resource Mapping (Before Writing)
+1. **Map your operating environment:** What environment are you working in? What are its unchangeable rules, current dynamics, and key players?
+2. **Classify your constraints:** Sort all limitations into Immutable (unchangeable rules)/Current (your position)/Chosen (strategic boundaries) categories
+3. **Identify available resources and their types:** What scarce resources (time, money, relationships, expertise) do you have available to optimize?
+4. **Research different approaches:** What different paths could achieve your outcome?
+5. **Gather constraint evidence:** Data proving limitations and resource availability rather than assumptions
 
-### Phase 3: Strategic Test Development
-1. **Write if-then tests:** Create comprehensive test suite for all major claims
-2. **Include baseline tests:** Validate current state understanding
-3. **Design progress tests:** Track strategic movement toward goals
-4. **Test at multiple levels:** Component tests and system tests
-5. **Define decision triggers:** Clear criteria for continue/adjust/abandon
+### Phase 2: Strategic Proof Construction
+1. **Write proposition with resource and environment framing:** Force clarity on what resource optimization within what constraints you're proving
+2. **Define terms precisely:** Prevent ambiguity that weakens logical reasoning, especially resource types and environment elements
+3. **Build logical argument chain with connecting words:** Each reasoning step should reference previous conclusions using SINCE/THEREFORE/GIVEN
+4. **Integrate mathematical validation naturally:** Show quantitative connections where you make efficiency or performance claims
+5. **Handle decision dependencies within logical flow:** Use connecting words for dependencies rather than separate sections
 
-### Phase 4: Quality Assessment
-1. **Self-annotate:** Mark every assumption, gap, and choice honestly using annotation system
-2. **Validate logic:** Check each reasoning step for necessity using validation questions
-3. **Test math:** Do the quantitative connections actually work within system constraints?
-4. **Challenge assumptions:** What would prove core system understanding wrong?
-5. **Assess meta-reasoning:** Where is the argument itself vulnerable to bias or logical error?
+### Phase 3: Strategic Test-Driven Development
+1. **Write if-then tests for all major claims:** Every significant assertion gets corresponding measurable validation test
+2. **Include baseline reality tests:** Validate current understanding (often starts RED - that's valuable)
+3. **Design progress tracking tests:** Measure strategic movement toward outcomes (should transition RED → GREEN)
+4. **Test at component and environment levels:** Both individual strategic elements and fundamental environment assumptions
+5. **Define decision triggers:** Clear criteria for continue/adjust/abandon based on test results
+
+### Phase 4: Proof Quality Assessment
+1. **Self-annotate using Enhanced Annotation System:** Mark every assumption, gap, and strategic choice honestly with explanatory reasoning
+2. **Validate logic chain necessity:** Check each reasoning step follows necessarily from constraints and prior conclusions
+3. **Test mathematical connections:** Do quantitative relationships actually work within constraints and resource availability?
+4. **Challenge environment model:** What would prove your understanding of how things work is wrong?
+5. **Assess argument quality in conclusion:** Where is reasoning most vulnerable? What biases might affect judgment?
 
 ### Phase 5: Analysis and Improvement (Using Section 5 Methodology)
-1. **Structural analysis:** Check logical flow and add missing annotations
-2. **Evidence assessment:** Identify claims requiring stronger support
-3. **System model validation:** Test constraint classifications and system understanding
-4. **Strategic test evaluation:** Assess test suite completeness and quality
-5. **Revision recommendations:** Address critical issues before execution
+1. **Apply Enhanced Annotation System:** Systematically mark structural, evidence, reasoning, strategic, and validation issues
+2. **Use streamlined validation questions:** Guide analysis focus with specific annotation categories for issues found
+3. **Complete quality assessment checklist:** Rapid verification of logical structure, evidence, test suite, and framework integration
+4. **Generate structured analysis output:** Critical/Important/Minor issues with specific improvement recommendations
+5. **Address critical annotations:** Fix fundamental logical, environment model, or resource optimization issues before execution
 
-### Phase 6: Execution and Continuous Testing
-1. **Execute strategy:** Implement planned approach within system constraints
-2. **Run strategic tests:** Monitor component and system tests on planned schedule
-3. **Track baseline and progress:** Validate both current understanding and strategic movement
-4. **Apply decision framework:** Use test results to continue/adjust/abandon as appropriate
-5. **Iterate system understanding:** Update constraints and logic based on test feedback
+### Phase 6: Strategic Test-Driven Execution
+1. **Execute strategy within mapped constraints:** Implement planned approach respecting environmental limits and resource constraints
+2. **Run strategic test suite on planned schedule:** Monitor component tests continuously, environment tests at decision points
+3. **Track baseline and progress tests:** Validate both current understanding and strategic movement toward outcomes
+4. **Apply TDD decision framework:** Use test results to continue/adjust execution/change approach/abandon as appropriate
+5. **Iterate environment understanding:** Update constraint classifications and logical reasoning based on strategic test feedback
+
+---
+
+### Key Framework Principles During Process:
+- **Environment thinking first:** Always map your operating environment before choosing strategic path
+- **Resource optimization focus:** Every strategic choice should optimize scarce resource allocation
+- **Integrated logical flow:** Use connecting words throughout, avoid disconnected sections
+- **Strategic test coverage:** If you claim it, test it with measurable if-then statements
+- **Continuous validation:** Strategy execution becomes ongoing test of environment understanding and strategic effectiveness
 
 ---
 

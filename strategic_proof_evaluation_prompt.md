@@ -336,9 +336,11 @@ Can someone understand the strategic reasoning gaps, evidence weaknesses, and cr
 Apply the quality standards detailed in the Strategic Proof Framework document's "Quality Checklist" and "Common Pitfalls" sections. 
 
 **Focus Areas for Extra Scrutiny:**
+- **FIRST:** Check framework's "FUNDAMENTAL FRAMEWORK VIOLATIONS" section - catch strategy/tactics confusion, orphaned sections, missing strategic scope
 - Reference the framework's "Common Pitfalls to Avoid" section for systematic issue identification
 - Apply the framework's "Logical Structure Validation" checklist  
 - Use the framework's "Meta-Reasoning Assessment" guidelines for argument quality evaluation
+- Verify framework's "CRITICAL INTEGRATION PRINCIPLE" is followed - no orphaned sections allowed
 
 **Remember:** The Strategic Proof Framework document is your authoritative guide. When in doubt about any criterion, format, or standard, reference that document directly. Your role is to strengthen strategic thinking - whether building new arguments or identifying vulnerabilities in existing ones - using the framework's proven methodology.
 

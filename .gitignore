@@ -1,0 +1,18 @@
+# Internal strategic documents - do not commit to public repo
+brazilian_talent_strategic_analysis.md
+Close the funding gap by securing Phyllis Newhouse and her network - Strategy .md
+
+# Any files with "internal" in the name
+*internal*
+*Internal*
+*INTERNAL*
+
+# Company-specific strategic documents
+*_strategic_analysis.md
+*_strategy.md
+*_confidential*
+
+# Temporary files
+*.tmp
+*~
+.DS_Store

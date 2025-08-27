@@ -87,7 +87,6 @@ Unrestricted AI use undermines educational objectives because:
 Rather than implementing collective pop-quiz punishment when AI misuse levels become excessive, targeted verification with balanced incentives optimizes enforcement resources:
 - Individual post-class oral examinations test actual knowledge assimilation for suspected violations using minimum verification standards: reasoning process explanation, concept application to new scenarios, and key term definitions
 - Students who demonstrate understanding despite AI suspicion receive bonus points, ensuring no penalty for false positive identification
-- Students who demonstrate understanding receive bonus points for false positive compensation, ensuring no penalty for appropriate AI use
 - Students who cannot explain their work lose points, confirming cognitive replacement rather than cognitive support
 - False positive compensation system encourages honest engagement with verification process rather than defensive responses
 - Class-wide punishment penalizes appropriate AI users and creates adversarial classroom environment

@@ -66,7 +66,8 @@ Specialized AI subagent for maintaining framework consistency and effectiveness:
 ### Strategic Decision Documents
 Examples of framework application to real strategic decisions:
 
-- **[AI Policy Strategic Proof Example](ai_policy_strategic_proof_example.md)**: Demonstrates framework application to policy and governance decisions
+- **[AI Policy Strategic Proof Example](ai_policy_strategic_proof_example.md)**: Clean example demonstrating framework application to policy and governance decisions
+- **[AI Policy Strategic Proof ANNOTATED EXEMPLAR](ai_policy_strategic_proof_ANNOTATED_EXEMPLAR.md)**: Comprehensive evaluation showing annotation standards and framework compliance analysis
 
 ### Common Use Cases
 - Resource allocation decisions within system constraints

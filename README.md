@@ -78,6 +78,26 @@ Examples of framework application to real strategic decisions:
 
 ## Getting Started
 
+### How to Use with Claude Projects
+
+**For AI-Assisted Strategic Analysis:**
+
+1. **Create a Claude Project** for your strategic work
+2. **Add System Instructions**: Copy the contents of [strategic_proof_evaluation_prompt.md](strategic_proof_evaluation_prompt.md) into your project's system instructions
+3. **Upload Framework Files** to your project knowledge base:
+   - `strategic_proof_framework.md` (core methodology)
+   - `ai_policy_strategic_proof_ANNOTATED_EXEMPLAR.md` (evaluation standards reference)
+4. **Upload Your Strategic Documents** that need analysis or improvement
+
+**Claude will then be able to:**
+- Evaluate existing strategic documents using the Enhanced Annotation System
+- Help convert other documents into Strategic Proof Framework format
+- Guide you through building new strategic proofs from scratch
+- Provide systematic quality control and improvement suggestions
+- Apply the same rigorous standards demonstrated in the annotated exemplar
+
+### Manual Framework Application
+
 ### 1. Understand the Framework
 Start with [strategic_proof_framework.md](strategic_proof_framework.md) to understand:
 - When to use the framework (strategic choices, not tactical execution)

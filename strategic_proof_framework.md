@@ -20,7 +20,7 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 
 ### When to Use This Framework
 
-**STRATEGIC FOCUS: This framework is for justifying CHOICES, not planning EXECUTION.**
+**STRATEGIC FOCUS: This framework is for justifying CHOICES first, with tactical elements included only after strategic justification.**
 
 **Use this framework for:**
 - **Strategic navigation decisions:** "How do we optimally navigate system constraints to achieve outcome X while accounting for change and uncertainty?"
@@ -30,13 +30,18 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 - **Risk/uncertainty management:** "How do we navigate uncertainty while optimizing capital allocation within system constraints?"
 - **Alternative comparison:** "Given system constraints and dynamics, which approach optimizes our strategic position?"
 
-**DO NOT use this framework for:**
-- **Tactical execution planning:** "Day 1: Do X, Day 2: Do Y, Day 3: Do Z"
-- **Project management:** Timeline planning, resource scheduling, task coordination
-- **Operational procedures:** How to implement processes once strategic choice is made
-- **Implementation details:** Technical specifications, workflow optimization, quality control
+**TACTICAL ELEMENTS ARE ACCEPTABLE WHEN:**
+- Strategic choice is first justified with proper reasoning and alternative consideration
+- Tactical details support or validate the strategic argument
+- Implementation planning demonstrates strategic feasibility
+- Execution timeline serves as validation milestone for strategic claims
 
-**STRATEGIC TEST:** If your document primarily answers "How should we execute this approach?" rather than "How do we optimally navigate system constraints and dynamics to achieve our outcome?" - you need different planning tools, not this framework.
+**DO NOT use this framework for:**
+- **Pure tactical execution planning:** "Day 1: Do X, Day 2: Do Y, Day 3: Do Z" without strategic justification
+- **Project management without strategic context:** Timeline planning, resource scheduling, task coordination as standalone activities
+- **Implementation-first documents:** Technical specifications or operational procedures presented before strategic choice justification
+
+**STRATEGIC TEST:** If your document primarily answers "How should we execute this approach?" without first proving "Why is this the optimal approach among alternatives?" - you need to establish strategic justification before including tactical elements.
 
 **SYSTEM NAVIGATION FOCUS:** Strategic proofs must demonstrate understanding of:
 - Current system state and constraints
@@ -812,34 +817,36 @@ This decision builds on prior decisions about:
 This section provides a systematic way to analyze and evaluate strategic proofs. **Every strategic proof should be evaluated before execution** - primarily by the person who created it, but also potentially through peer review or automated analysis. This approach ensures thorough assessment of logical rigor and strategic soundness.
 
 ### ENHANCED ANNOTATION SYSTEM
-When analyzing a strategic proof, annotate directly in the text using these categories. Each annotation must include explanatory reasoning:
+When analyzing a strategic proof, annotate directly in the text using these categories. **All annotations must use backticks and include at minimum a complete sentence explaining the issue.**
+
+**Format:** `[CATEGORY: Complete sentence explaining the issue and what needs improvement]`
 
 #### STRUCTURAL ANALYSIS ANNOTATIONS:
-- **[LOGICAL GAP: specific missing reasoning step]** - Where conclusions don't follow necessarily from premises
-- **[CONSTRAINT MISCLASSIFICATION: this belongs in X category because Y]** - For incorrectly categorized system limitations
-- **[DEFINITION NEEDED: term requires clarification to avoid ambiguity]** - For undefined key terms that create reasoning vulnerability
+- `[LOGICAL GAP: Complete sentence explaining what reasoning step is missing and why the conclusion doesn't follow from premises]`
+- `[CONSTRAINT MISCLASSIFICATION: Complete sentence explaining why this belongs in different category and what the correct classification should be]`
+- `[DEFINITION NEEDED: Complete sentence explaining why this term requires clarification and what ambiguity it creates]`
+- `[ERROR: Complete sentence explaining the factual, mathematical, or logical error and what the correct information should be]`
 
 #### EVIDENCE ASSESSMENT ANNOTATIONS:
-- **[CITATION NEEDED: specific type of evidence that would support this claim]** - For unsupported assertions requiring data
-- **[ASSUMPTION: this requires validation because it's not provably true from given facts]** - For beliefs stated as facts
-- **[CONFIDENCE: HIGH/MED/LOW - reasoning for certainty level]** - Where claims lack sufficient support for their certainty level
+- `[CITATION NEEDED: Complete sentence explaining what specific evidence would support this claim and why it's currently unsupported]`
+- `[ASSUMPTION: Complete sentence explaining why this requires validation and what specific evidence would prove it]`
+- `[VALIDATED: STRONG/WEAK - Complete sentence explaining the evidence strength and reasoning for this confidence level]`
 
 #### REASONING VALIDATION ANNOTATIONS:
-- **[CIRCULAR: argument assumes what it's trying to prove]** - For circular logic that undermines proof validity
-- **[WEAK LINK: connection requires additional justification]** - For insufficient reasoning between steps
-- **[HIDDEN ASSUMPTION: unstated belief X is required for this conclusion]** - For implicit dependencies that weaken the argument
+- `[CIRCULAR: Complete sentence explaining how the argument assumes what it's trying to prove]`
+- `[WEAK LINK: Complete sentence explaining why this connection requires additional justification]`
+- `[HIDDEN ASSUMPTION: Complete sentence explaining what unstated belief is required and why it weakens the argument]`
 
 #### STRATEGIC COMPLETENESS ANNOTATIONS:
-- **[MISSING ALTERNATIVE: approach X not considered]** - Where obvious alternatives are ignored without justification
-- **[DEPENDENCY: relies on separate decision Y achieving outcome Z]** - For unacknowledged system dependencies
-- **[EXTERNALITY: outside factor X could invalidate this reasoning]** - For uncontrolled system variables
-- **[STRATEGIC CHOICE: rationale for this decision among alternatives]** - Where strategic choices need better justification
+- `[MISSING ALTERNATIVE: Complete sentence explaining what alternative wasn't considered and why it should be evaluated]`
+- `[DEPENDENCY: Complete sentence explaining what separate decision this relies on and what risk this creates]`
+- `[EXTERNALITY: Complete sentence explaining what outside factor could invalidate this reasoning]`
+- `[STRATEGIC CHOICE: Complete sentence explaining what rationale is needed for this decision among alternatives]`
 
 #### VALIDATION RIGOR ANNOTATIONS:
-- **[VALIDATION INSUFFICIENT: milestone doesn't prove broader thesis]** - For weak validation that doesn't test core claims
-- **[FALSIFICATION UNCLEAR: what specific evidence would disprove this]** - Where falsifiability is weak or missing
-- **[SPECIFICITY: VAGUE - needs measurable criteria]** - For unmeasurable success criteria
-- **[REVERSIBILITY: cost and feasibility of undoing this decision]** - For decisions with unclear exit strategies
+- `[VALIDATION INSUFFICIENT: Complete sentence explaining why this milestone doesn't prove the broader thesis]`
+- `[FALSIFICATION UNCLEAR: Complete sentence explaining what specific evidence would disprove this claim]`
+- `[SPECIFICITY NEEDED: Complete sentence explaining why this needs measurable criteria and what metrics would improve it]`
 
 ### STREAMLINED VALIDATION QUESTIONS
 Apply these systematically during analysis, with specific focus areas indicated by annotation types:

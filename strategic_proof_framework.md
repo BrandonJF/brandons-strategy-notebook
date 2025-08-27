@@ -65,27 +65,27 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 **Examples by Decision Type:**
 
 **Capital Allocation:**
-- ✅ "Given [current capital constraints], allocating [time/human/financial capital] to [specific initiative] optimizes [outcome metric] within [timeframe]"
+- âœ… "Given [current capital constraints], allocating [time/human/financial capital] to [specific initiative] optimizes [outcome metric] within [timeframe]"
   - *Business:* "Given team capacity and runway, allocating 3 engineers to MVP development optimizes time-to-market within 3 months"
   - *Academic:* "Given research time and lab resources, allocating semester to replication study optimizes publication potential within academic year"
   - *Personal:* "Given energy and evening hours, allocating time to skill development optimizes career advancement within 6 months"
 
 **Process/System Change:**
-- ✅ "Given [current performance and capital constraints], implementing [specific change] improves [metric] by [amount] within [timeframe]"
+- âœ… "Given [current performance and capital constraints], implementing [specific change] improves [metric] by [amount] within [timeframe]"
   - *Business:* "Given current customer support costs, implementing chatbot reduces response time by 50% within 2 months"
   - *Academic:* "Given current grading workload, implementing rubric system reduces grading time by 30% within semester"
   - *Personal:* "Given current morning routine chaos, implementing prep-night-before reduces stress by measurable amount within 2 weeks"
 
 **Direction/Positioning:**
-- ✅ "Given [competitive landscape and capital], pursuing [specific approach] positions us to achieve [advantage/outcome] within [timeframe]"
+- âœ… "Given [competitive landscape and capital], pursuing [specific approach] positions us to achieve [advantage/outcome] within [timeframe]"
   - *Business:* "Given competitive landscape and technical capabilities, pursuing AI-first approach positions us for market leadership within 18 months"
   - *Academic:* "Given field dynamics and research strengths, pursuing interdisciplinary approach positions for breakthrough within 2 years"
   - *Personal:* "Given career landscape and skills, pursuing specialization positions for promotion within 12 months"
 
 **What makes these weak:**
-- ❌ "We should build an AI product" (too vague, no capital constraints acknowledged)
-- ❌ "This will make us successful" (no timeframe, no capital investment specified)
-- ❌ "This is the best approach" (no alternatives considered, no capital optimization shown)
+- âŒ "We should build an AI product" (too vague, no capital constraints acknowledged)
+- âŒ "This will make us successful" (no timeframe, no capital investment specified)
+- âŒ "This is the best approach" (no alternatives considered, no capital optimization shown)
 
 **Key requirements:**
 - Specific and measurable outcomes
@@ -104,12 +104,44 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 ### 2.2 DEFINITIONS
 **Purpose:** Define ALL key terms before using them in arguments to prevent ambiguity that weakens logical reasoning.
 
-**What to include:**
+**CRITICAL RULE: DEFINITIONS ESTABLISH CONCEPTS ONLY**
+Definitions must be **pure concept clarification** with **no strategic arguments, validation annotations, or reasoning embedded**. All strategic claims, evidence, and validation belong in the logical argument chain, not definitions.
+
+**What belongs in definitions:**
 - Technical terms specific to your domain
 - Types of capital and how they're measured (time, attention, money, relationships, energy, expertise)
 - Key actors, entities, or categories relevant to your decision
 - Success criteria and thresholds
 - Any term that could be interpreted differently
+
+**What does NOT belong in definitions:**
+- ❌ **Validation annotations** like `[VALIDATED: Strong]` or `[ASSUMPTION: requires testing]`
+- ❌ **Strategic arguments** explaining why something creates competitive advantage
+- ❌ **Evidence claims** citing competitive data or market validation
+- ❌ **Value propositions** describing how concepts benefit customers or strategy
+- ❌ **Reasoning chains** connecting concepts to strategic outcomes
+
+**CORRECT vs INCORRECT Definition Examples:**
+
+**❌ INCORRECT - Contains Strategic Arguments:**
+```
+**AI Vetting Platform:** Technology that solves quality assurance challenges by providing systematic candidate assessment, creating competitive differentiation and technology moat in established market. [VALIDATED: Strong - addresses core market failure]
+```
+
+**✅ CORRECT - Pure Concept Clarification:**
+```
+**AI Vetting Platform:** Technology system that provides automated candidate assessment through skills verification, language testing, and cultural fit evaluation.
+```
+
+**❌ INCORRECT - Contains Value Proposition:**
+```
+**Brazilian Talent Arbitrage:** Cost-of-living differences enabling 40-75% savings while providing equivalent quality, creating sustainable value proposition validated through existing market examples.
+```
+
+**✅ CORRECT - Factual Definition:**
+```
+**Brazilian Talent Arbitrage:** Employment of Brazilian professionals at compensation rates 40-75% below US equivalent roles due to cost-of-living differences.
+```
 
 **Examples by Decision Type:**
 
@@ -136,21 +168,27 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 
 **Template:**
 ```
-**[Term]:** [Precise definition without derived elements]
+**[Term]:** [Precise definition establishing meaning only, no strategic claims]
 ```
 
-**Example:**
+**Clean Example:**
 ```
 **Time Capital:** 20 hours per week available for skill development
-**Target Outcome:** Demonstrable expertise in new domain sufficient for role transition
-**Success Metric:** Complete certification program and land interview at target company within 6 months
+**Target Outcome:** Demonstrable expertise sufficient for role transition
+**Success Metric:** Completion of certification program and successful interview at target company within 6 months
 ```
 
+**Where Strategic Elements Belong Instead:**
+- **Competitive advantages** → Logical argument chain: "SINCE our AI vetting technology provides systematic quality assurance, THEREFORE we create competitive differentiation..."
+- **Market validation** → Constraints section with evidence sources
+- **Value creation** → Logical argument chain: "GIVEN customer need for quality assurance, our platform provides value by..."
+- **Strategic reasoning** → Logical argument chain with proper premise indicators
+
 **Common Definition Quality Issues:**
-- ❌ Including strategic choices in definitions (circular reasoning risk)
-- ❌ Using undefined terms within definitions (dependency chain problems)  
-- ❌ Leaving terms undefined until later use (logical gap creation)
-- ❌ Defining terms so broadly they become meaningless (precision loss)
+- âŒ Including strategic choices in definitions (circular reasoning risk)
+- âŒ Using undefined terms within definitions (dependency chain problems)  
+- âŒ Leaving terms undefined until later use (logical gap creation)
+- âŒ Defining terms so broadly they become meaningless (precision loss)
 
 ---
 
@@ -230,10 +268,10 @@ Constraints define the system you're operating within. Proper constraint mapping
 - **Yes, as part of this system navigation decision** = CHOSEN (boundaries we're setting for this interaction)
 
 **Common system constraint misclassifications:**
-- ❌ "We have a small team" in IMMUTABLE (team size is your current system position, could be changed)
-- ✅ "We have a small team" in CURRENT (acknowledging position could be improved through hiring decisions)
-- ❌ "Users prefer simple solutions" in IMMUTABLE (this is an assumption about system behavior requiring validation)
-- ✅ "User research shows 80% of surveyed participants preferred simpler interface" in CURRENT (proven system behavior data)
+- âŒ "We have a small team" in IMMUTABLE (team size is your current system position, could be changed)
+- âœ… "We have a small team" in CURRENT (acknowledging position could be improved through hiring decisions)
+- âŒ "Users prefer simple solutions" in IMMUTABLE (this is an assumption about system behavior requiring validation)
+- âœ… "User research shows 80% of surveyed participants preferred simpler interface" in CURRENT (proven system behavior data)
 
 **System Constraint Quality Assessment:**
 - **Classification Accuracy:** Are constraints properly categorized as system properties vs. current position vs. chosen boundaries?
@@ -271,7 +309,7 @@ When your strategic reasoning involves quantitative predictions or claims, integ
 ```
 ## BASED ON [proven constraint data], TO ACHIEVE [target], WE NEED
 [Step-by-step mathematical derivation showing feasibility]
-Current capacity: [proven rate] × [timeframe] = [mathematical result]
+Current capacity: [proven rate] Ã— [timeframe] = [mathematical result]
 THEREFORE [outcome feasibility conclusion]
 HOWEVER this assumes [ASSUMPTION: what requires validation for math to hold]
 ```
@@ -279,17 +317,17 @@ HOWEVER this assumes [ASSUMPTION: what requires validation for math to hold]
 **Capital Efficiency Analysis Pattern:**
 ```
 ## BASED ON [proven capital utilization data], TO ACHIEVE [target outcome], WE NEED
-Current efficiency: [outcome] ÷ [capital input] = [current ratio]
-Target efficiency: [desired outcome] ÷ [available capital] = [required ratio]
+Current efficiency: [outcome] Ã· [capital input] = [current ratio]
+Target efficiency: [desired outcome] Ã· [available capital] = [required ratio]
 Gap analysis: [required ratio] - [current ratio] = [efficiency improvement needed]
 ```
 
 **Capital Capacity Planning Pattern:**
 ```
 ## BASED ON [proven capital availability], TO ACHIEVE [target outcome], WE NEED
-Available capital: [type] × [time period] = [total capacity]
-Required capital: [outcome requirements] ÷ [efficiency rate] = [needed capacity]
-Feasibility check: [needed capacity] ≤ [total capacity] = [viable/not viable]
+Available capital: [type] Ã— [time period] = [total capacity]
+Required capital: [outcome requirements] Ã· [efficiency rate] = [needed capacity]
+Feasibility check: [needed capacity] â‰¤ [total capacity] = [viable/not viable]
 ```
 
 **Capital Portfolio Optimization Pattern:**
@@ -511,10 +549,10 @@ By [executing the strategy], we [achieve the outcome] because [synthesis of key 
 - **All content:** Must connect to previous logical steps using premise indicators
 
 **VIOLATION EXAMPLES:**
-❌ Standalone "VALIDATION FRAMEWORK" section with bullet lists
-❌ Separate "DECISION INTERACTIONS" section disconnected from argument
-❌ Isolated "MATHEMATICAL CONNECTIONS" section not integrated into reasoning
-❌ Any section that doesn't build on previous logical conclusions
+âŒ Standalone "VALIDATION FRAMEWORK" section with bullet lists
+âŒ Separate "DECISION INTERACTIONS" section disconnected from argument
+âŒ Isolated "MATHEMATICAL CONNECTIONS" section not integrated into reasoning
+âŒ Any section that doesn't build on previous logical conclusions
 
 **INTEGRATION TEST:** Can you remove any section and still understand the complete strategic argument? If yes, that section is orphaned and violates the framework.
 
@@ -708,61 +746,61 @@ This decision builds on prior decisions about:
 ### FUNDAMENTAL FRAMEWORK VIOLATIONS (Most Critical)
 
 ### 1. **Entire Document is Tactical Execution, Not Strategic Choice**
-❌ **Wrong:** Document focuses on "Day 1: Do X, Day 2: Do Y, Day 3: Do Z" execution timeline
-✅ **Right:** Document proves "We should choose approach X over alternatives Y and Z because..."
+âŒ **Wrong:** Document focuses on "Day 1: Do X, Day 2: Do Y, Day 3: Do Z" execution timeline
+âœ… **Right:** Document proves "We should choose approach X over alternatives Y and Z because..."
 **Fix:** Restructure to focus on strategic choice justification rather than execution planning. Ask "Why this approach?" not "How to implement this approach?"
 
 ### 2. **Orphaned Sections Violating Integration Principle** 
-❌ **Wrong:** Standalone "VALIDATION FRAMEWORK" section, separate "DECISION INTERACTIONS" section
-✅ **Right:** "THEREFORE we will validate this choice by achieving..." integrated into logical flow
+âŒ **Wrong:** Standalone "VALIDATION FRAMEWORK" section, separate "DECISION INTERACTIONS" section
+âœ… **Right:** "THEREFORE we will validate this choice by achieving..." integrated into logical flow
 **Fix:** Eliminate all standalone sections. Everything must flow through logical argument chain with connecting words.
 
 ### 3. **Missing Strategic System Navigation Scope**
-❌ **Wrong:** Document assumes strategic approach already selected, focuses only on execution optimization
-✅ **Right:** Document proves how to optimally navigate system constraints and dynamics to achieve outcome, accounting for time and uncertainty
+âŒ **Wrong:** Document assumes strategic approach already selected, focuses only on execution optimization
+âœ… **Right:** Document proves how to optimally navigate system constraints and dynamics to achieve outcome, accounting for time and uncertainty
 **Fix:** Ensure proposition addresses system navigation strategy - how to move through constraints optimally over time, not just alternative comparison or execution planning.
 
 ### DETAILED STRATEGIC ERRORS
 
 ### 4. **Strategy vs. Tactics Confusion**
-❌ **Wrong:** "We will use React for the frontend" (implementation detail without strategic rationale)
-✅ **Right:** "We will build a web-based interface to optimize user adoption capital" (strategic positioning with capital logic)
+âŒ **Wrong:** "We will use React for the frontend" (implementation detail without strategic rationale)
+âœ… **Right:** "We will build a web-based interface to optimize user adoption capital" (strategic positioning with capital logic)
 
 **Fix:** Focus on WHY and WHAT CAPITAL ADVANTAGE, not HOW. Strategic choices should address capital optimization, positioning advantage, and resource leverage.
 
 ### 2. **Capital Constraint Misclassification**
-❌ **Wrong:** "We have limited time" (in IMMUTABLE when time allocation could be restructured)
-✅ **Right:** "We have limited time" (in CURRENT, acknowledging reallocation possible through other decisions)
+âŒ **Wrong:** "We have limited time" (in IMMUTABLE when time allocation could be restructured)
+âœ… **Right:** "We have limited time" (in CURRENT, acknowledging reallocation possible through other decisions)
 
 **Fix:** Use the constraint classification test - could this capital constraint change through strategic decisions?
 
 ### 3. **Assumption Disguised as Capital Fact**
-❌ **Wrong:** "Users prefer simple solutions" (stated as immutable constraint about user capital/attention)
-✅ **Right:** "Users prefer simple solutions [ASSUMPTION: requires user research to confirm attention allocation patterns]"
+âŒ **Wrong:** "Users prefer simple solutions" (stated as immutable constraint about user capital/attention)
+âœ… **Right:** "Users prefer simple solutions [ASSUMPTION: requires user research to confirm attention allocation patterns]"
 
 **Fix:** Only put proven, unchangeable capital facts in constraints. Everything else needs evidence.
 
 ### 4. **Vague Capital Success Criteria**
-❌ **Wrong:** "Achieve product-market fit" (unmeasurable capital return)
-✅ **Right:** "Achieve 2 paying customers willing to provide references within 3 months" (specific capital validation)
+âŒ **Wrong:** "Achieve product-market fit" (unmeasurable capital return)
+âœ… **Right:** "Achieve 2 paying customers willing to provide references within 3 months" (specific capital validation)
 
 **Fix:** Make validation criteria specific, measurable, and tied to actual capital returns or commitments.
 
 ### 5. **Hidden Capital Dependencies**
-❌ **Wrong:** Not acknowledging that your strategy depends on successful capital acquisition (hiring, funding, partnerships)
-✅ **Right:** "GIVEN our dependency on acquiring [capital type] through [separate decision], WE CHOOSE [approach] BECAUSE [reasoning that incorporates this capital constraint]"
+âŒ **Wrong:** Not acknowledging that your strategy depends on successful capital acquisition (hiring, funding, partnerships)
+âœ… **Right:** "GIVEN our dependency on acquiring [capital type] through [separate decision], WE CHOOSE [approach] BECAUSE [reasoning that incorporates this capital constraint]"
 
 **Fix:** Integrate capital dependencies as logical premises where they affect reasoning, not as isolated sections.
 
 ### 6. **Circular Capital Reasoning**
-❌ **Wrong:** "We'll succeed because successful approaches optimize capital, and optimizing capital means we'll succeed"
-✅ **Right:** "Approaches with capital characteristics A, B, C succeed. We have A and B, and will develop C through this initiative"
+âŒ **Wrong:** "We'll succeed because successful approaches optimize capital, and optimizing capital means we'll succeed"
+âœ… **Right:** "Approaches with capital characteristics A, B, C succeed. We have A and B, and will develop C through this initiative"
 
 **Fix:** Validate your approach against external capital benchmarks and proven efficiency patterns, not your own definitions.
 
 ### 7. **Missing Capital Logic Bridges**
-❌ **Wrong:** "We target SMBs. AI interviewing is growing. Therefore we build AI interviewing for SMBs."
-✅ **Right:** "We target SMBs BECAUSE [capital advantage reasoning]... WITHIN SMBs, we focus on hiring BECAUSE [capital efficiency reasoning]... THEREFORE we build AI interviewing [with capital optimization logic]"
+âŒ **Wrong:** "We target SMBs. AI interviewing is growing. Therefore we build AI interviewing for SMBs."
+âœ… **Right:** "We target SMBs BECAUSE [capital advantage reasoning]... WITHIN SMBs, we focus on hiring BECAUSE [capital efficiency reasoning]... THEREFORE we build AI interviewing [with capital optimization logic]"
 
 **Fix:** Show WHY each choice follows from capital optimization reasoning and previous logical steps.
 
@@ -807,16 +845,16 @@ When analyzing a strategic proof, annotate directly in the text using these cate
 Apply these systematically during analysis, with specific focus areas indicated by annotation types:
 
 #### For Logic Chain Analysis:
-1. **Necessity Test:** Does the conclusion follow necessarily from the premises? → Mark [LOGICAL GAP] if not
-2. **Assumption Test:** What unstated beliefs are required? → Mark [HIDDEN ASSUMPTION] for implicit dependencies
-3. **Alternative Test:** Could this reasoning justify different conclusions? → Mark [WEAK LINK] for insufficient justification
-4. **Evidence Test:** What would strengthen this reasoning? → Mark [CITATION NEEDED] for unsupported claims
-5. **Falsification Test:** What would prove this step wrong? → Mark [FALSIFICATION UNCLEAR] for weak falsifiability
+1. **Necessity Test:** Does the conclusion follow necessarily from the premises? â†’ Mark [LOGICAL GAP] if not
+2. **Assumption Test:** What unstated beliefs are required? â†’ Mark [HIDDEN ASSUMPTION] for implicit dependencies
+3. **Alternative Test:** Could this reasoning justify different conclusions? â†’ Mark [WEAK LINK] for insufficient justification
+4. **Evidence Test:** What would strengthen this reasoning? â†’ Mark [CITATION NEEDED] for unsupported claims
+5. **Falsification Test:** What would prove this step wrong? â†’ Mark [FALSIFICATION UNCLEAR] for weak falsifiability
 
 #### For System and Capital Analysis:
-1. **System Model Test:** Do constraints accurately represent system properties? → Mark [CONSTRAINT MISCLASSIFICATION] for categorization errors
-2. **Capital Efficiency Test:** Does the approach optimize allocation given constraints? → Mark [STRATEGIC CHOICE] for unjustified decisions
-3. **Dependency Test:** Are system interdependencies properly acknowledged? → Mark [DEPENDENCY] and [EXTERNALITY] for uncontrolled variables
+1. **System Model Test:** Do constraints accurately represent system properties? â†’ Mark [CONSTRAINT MISCLASSIFICATION] for categorization errors
+2. **Capital Efficiency Test:** Does the approach optimize allocation given constraints? â†’ Mark [STRATEGIC CHOICE] for unjustified decisions
+3. **Dependency Test:** Are system interdependencies properly acknowledged? â†’ Mark [DEPENDENCY] and [EXTERNALITY] for uncontrolled variables
 
 **Usage:** These questions guide where to look for issues. The Enhanced Annotation System (above) provides the specific categories to mark when issues are found, with explanatory reasoning required for each annotation.
 
@@ -861,7 +899,7 @@ Ensure comprehensive analysis by verifying:
 
 For rapid quality assessment or final validation after detailed analysis, verify:
 
-#### Logical Structure ✓
+#### Logical Structure âœ“
 - [ ] Proposition is specific, measurable, and time-bounded
 - [ ] All terms defined before use
 - [ ] Constraints properly classified (Immutable/Current/Chosen)
@@ -870,14 +908,14 @@ For rapid quality assessment or final validation after detailed analysis, verify
 - [ ] No circular reasoning or logical gaps
 - [ ] Mathematical validation integrated where quantitative claims are made
 
-#### Evidence and Support ✓
+#### Evidence and Support âœ“
 - [ ] All major claims are annotated with explanatory reasoning (see Enhanced Annotation System above)
 - [ ] Strategic choices are justified with evidence and alternatives considered
 - [ ] Mathematical connections are shown step-by-step with proven data
 - [ ] Evidence quality is assessed and uncertainty levels marked
 - [ ] Capital constraints and system properties properly inform strategic choices
 
-#### Strategic Test Suite ✓
+#### Strategic Test Suite âœ“
 - [ ] Comprehensive if-then test coverage for all major claims
 - [ ] Both component-level and system-level tests included
 - [ ] Baseline reality and progress tracking tests cover key assumptions
@@ -885,7 +923,7 @@ For rapid quality assessment or final validation after detailed analysis, verify
 - [ ] Test results trigger clear decision framework (continue/adjust/abandon)
 - [ ] Timeline and validation approach are realistic given system constraints
 
-#### Framework Integration ✓
+#### Framework Integration âœ“
 - [ ] Systems thinking consistently applied throughout constraint classification and reasoning
 - [ ] Capital optimization logic connects strategy to resource allocation decisions
 - [ ] Conclusion includes argument quality assessment and limitation acknowledgment
@@ -923,7 +961,7 @@ This process is specifically designed for the systems thinking + capital optimiz
 ### Phase 3: Strategic Test-Driven Development
 1. **Write if-then tests for all major claims:** Every significant assertion gets corresponding measurable validation test
 2. **Include baseline reality tests:** Validate current understanding (often starts RED - that's valuable)
-3. **Design progress tracking tests:** Measure strategic movement toward outcomes (should transition RED → GREEN)
+3. **Design progress tracking tests:** Measure strategic movement toward outcomes (should transition RED â†’ GREEN)
 4. **Test at component and environment levels:** Both individual strategic elements and fundamental environment assumptions
 5. **Define decision triggers:** Clear criteria for continue/adjust/abandon based on test results
 

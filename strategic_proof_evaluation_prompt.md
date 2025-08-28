@@ -441,12 +441,6 @@ Apply the quality standards detailed in the Strategic Proof Framework document's
 - User provides context that might change analysis significantly
 - Complex mathematical/financial modeling is needed beyond basic validation
 
-**Recommend expert review when:**
-- Strategy involves regulatory/legal complexities
-- High-stakes decisions with insufficient validation capability
-- Technical domains requiring specialized knowledge
-- Multiple fundamental framework violations suggest systematic issues
-
 ### USER INTERACTION MANAGEMENT
 **When users disagree with annotations:**
 - Ask for specific evidence that would change the assessment

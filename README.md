@@ -28,7 +28,7 @@ The foundational methodology for creating logically sound strategic arguments. B
 A comprehensive AI evaluation system for analyzing strategic documents using the framework. Provides:
 
 - **Enhanced Annotation System**: Standardized format for identifying logical flaws, evidence gaps, and structural weaknesses
-- **Mode-Specific Workflows**: Tailored approaches for EVALUATION, CONVERSION, BUILDING, and REFINEMENT tasks
+- **Mode-Specific Workflows**: Tailored approaches for EVALUATION, CONVERSION, BUILDING, REFINEMENT, and REPORT tasks
 - **Quality Control Standards**: Systematic checklists and self-verification processes
 - **User Interaction Management**: Guidelines for handling disagreement, uncertainty, and iterative improvement
 

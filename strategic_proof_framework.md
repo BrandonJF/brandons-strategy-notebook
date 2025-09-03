@@ -51,18 +51,69 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 - Capital allocation across time given system evolution
 
 ### How to Get Started
-1. **Define your decision clearly** - What specific choice are you making?
-2. **Use the Universal Template** (Section 3) as your starting structure
-3. **Work through each framework section** (Section 2) to build your strategic proof
-4. **Apply the validation testing approach** to create measurable checkpoints
-5. **Review against Common Pitfalls** (Section 4) to strengthen your reasoning
-6. **Use the Analysis Methodology** (Section 5) for evaluation and improvement
+1. **Start with your Strategic Question** - What fundamental optimization challenge are you addressing? What are you trying to optimize for given your constraints?
+2. **Define your decision clearly** - What specific choice are you making to answer that strategic question?
+3. **Use the Universal Template** (Section 3) as your starting structure
+4. **Work through each framework section** (Section 2) to build your strategic proof
+5. **Apply the validation testing approach** to create measurable checkpoints
+6. **Review against Common Pitfalls** (Section 4) to strengthen your reasoning
+7. **Use the Analysis Methodology** (Section 5) for evaluation and improvement
 
 ---
 
 ## 2. CORE FRAMEWORK STRUCTURE
 
-### 2.1 PROPOSITION (The Thesis)
+### 2.1 STRATEGIC QUESTION (Strategic North Star)
+**What you're optimizing for:** State the fundamental strategic question that serves as your decision-making filter and strategic focus anchor.
+
+**Template:** "Given [current position/context] and [key constraints], what is the optimal [approach/strategy/decision] to achieve [specific outcome] within [timeline/capital] constraints?"
+
+**Strategic Question Quality Criteria:**
+
+**CLARITY OF PURPOSE:** The question should make it crystal clear what you're optimizing for, preventing scope drift and maintaining strategic focus.
+- ✅ "Given our AI interviewing development progress (Week 2 of 10-week project) and technical capabilities, what is the optimal execution strategy to achieve proven VC fundability metrics (functional technology + paying customers + operational efficiency) within our capital timeline constraints?"
+- ❌ "What should we do next?" (too vague, no optimization target)
+- ❌ "How do we build our product?" (tactical focus, missing strategic context)
+
+**STRATEGIC SCOPE:** The question must address system navigation through constraints and dynamics, not just tactical execution.
+- ✅ "Given competitive landscape dynamics and our current market position, what is the optimal positioning strategy to achieve sustainable competitive advantage within 18-month runway constraints?"
+- ❌ "What features should we build?" (tactical scope without strategic navigation context)
+
+**CONSTRAINT ACKNOWLEDGMENT:** The question should explicitly reference the key constraints that bound the strategic decision space.
+- ✅ "Given regulatory requirements and current compliance capabilities, what is the optimal market entry strategy to achieve regulatory approval and revenue targets within capital constraints?"
+- ❌ "How do we maximize revenue?" (ignores constraint reality)
+
+**OUTCOME SPECIFICITY:** The question should specify what success looks like in measurable terms.
+- ✅ "Given team capacity and technical constraints, what is the optimal development approach to achieve 10 paying customers and 90% uptime within 6-month timeline?"
+- ❌ "How do we succeed?" (success undefined)
+
+**Examples by Decision Type:**
+
+**Market Entry Strategy:**
+- ✅ "Given our technical capabilities and competitive landscape, what is the optimal market entry sequence to establish market leadership in our target segment within 24-month runway constraints?"
+- ✅ "Given regulatory environment and current compliance readiness, what is the optimal approach to achieve market entry approval and first revenue within available capital?"
+
+**Resource Allocation Strategy:**
+- ✅ "Given team expertise and development timeline constraints, what is the optimal resource allocation strategy to achieve MVP validation and Series A readiness within 18-month runway?"
+- ✅ "Given current capabilities and market opportunity size, what is the optimal investment focus to maximize competitive positioning within available capital?"
+
+**Partnership Strategy:**
+- ✅ "Given our current market position and partner landscape dynamics, what is the optimal partnership approach to achieve market access and revenue acceleration within timeline constraints?"
+- ✅ "Given technical integration requirements and relationship capital constraints, what is the optimal partner selection and engagement strategy to achieve go-to-market acceleration?"
+
+**Strategic Question vs Proposition Relationship:**
+- **Strategic Question:** Remains stable throughout strategic development - the fundamental optimization challenge
+- **Proposition:** May evolve as evidence emerges - the specific claim about optimal path
+- **Integration:** The proposition should directly answer the strategic question with evidence-based reasoning
+
+**Benefits of Clear Strategic Questions:**
+- **Strategic Clarity:** Decision-maker understands exactly what they're optimizing for
+- **Decision Filter:** Proposed actions can be evaluated against the strategic question
+- **Focus Management:** Prevents drift from core strategic challenge
+- **Progress Assessment:** Clear criteria for whether strategy addresses the right problem
+- **Communication:** Others immediately understand your strategic focus
+
+### 2.2 PROPOSITION (The Thesis)
 **What you're proving:** State your central strategic claim clearly and specifically.
 
 **Template:** "Given [constraints/context], [specific initiative] is the optimal path to achieve [specific outcome] within [timeframe]."
@@ -106,7 +157,7 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 
 ---
 
-### 2.2 DEFINITIONS
+### 2.3 DEFINITIONS
 **Purpose:** Define ALL key terms before using them in arguments to prevent ambiguity that weakens logical reasoning.
 
 **CRITICAL RULE: DEFINITIONS ESTABLISH CONCEPTS ONLY**
@@ -197,7 +248,7 @@ Definitions must be **pure concept clarification** with **no strategic arguments
 
 ---
 
-### 2.3 CONSTRAINTS (System State and Properties)
+### 2.4 CONSTRAINTS (System State and Properties)
 
 Constraints define the system you're operating within. Proper constraint mapping is essential for effective system navigation - misunderstanding system properties leads to failed strategies regardless of logical reasoning quality.
 
@@ -286,7 +337,7 @@ Constraints define the system you're operating within. Proper constraint mapping
 
 ---
 
-### 2.4 LOGICAL ARGUMENT CHAIN (System Navigation Path)
+### 2.5 LOGICAL ARGUMENT CHAIN (System Navigation Path)
 **Purpose:** Build step-by-step reasoning that charts the optimal path through the system from current state to desired outcome, acknowledging system constraints and dynamics.
 
 #### Structure Requirements:
@@ -385,7 +436,7 @@ At each major reasoning step, assess:
 
 ---
 
-### 2.5 VALIDATION FRAMEWORK (Strategic Test-Driven Development)
+### 2.6 VALIDATION FRAMEWORK (Strategic Test-Driven Development)
 
 **Core Concept:** Create a complete set of tests for your strategic decision that prove it's working as designed and alert you when key assumptions need revision. Like Test-Driven Development in software (where you write tests first, then code to pass the tests), strategic validation means writing measurable tests first, then executing strategy with continuous testing.
 
@@ -509,7 +560,7 @@ Your complete test suite should enable someone to understand your entire strateg
 
 ---
 
-### 2.6 CONCLUSION
+### 2.7 CONCLUSION
 **Purpose:** Synthesize the argument, assess its quality, and acknowledge limitations.
 
 **Template:**
@@ -562,12 +613,13 @@ By [executing the strategy], we [achieve the outcome] because [synthesis of key 
 **INTEGRATION TEST:** Can you remove any section and still understand the complete strategic argument? If yes, that section is orphaned and violates the framework.
 
 **MANDATORY SECTIONS (Every Strategic Proof Needs These):**
-1. **Proposition** - What you're proving
-2. **Definitions** - Key terms used in your argument
-3. **Constraints** - System state and properties (at least one category)
-4. **Logical Argument Chain** - At least one reasoning section with premise indicators
-5. **Validation Framework** - Strategic tests for your claims
-6. **Conclusion** - Synthesis and limitations
+1. **Strategic Question** - The optimization challenge you're addressing
+2. **Proposition** - What you're proving
+3. **Definitions** - Key terms used in your argument
+4. **Constraints** - System state and properties (at least one category)
+5. **Logical Argument Chain** - At least one reasoning section with premise indicators
+6. **Validation Framework** - Strategic tests for your claims
+7. **Conclusion** - Synthesis and limitations
 
 **OPTIONAL SECTIONS (Include Only If Relevant to Your Decision):**
 - **Decision Interactions** - Only if your strategy depends on or affects other decisions
@@ -598,6 +650,9 @@ By [executing the strategy], we [achieve the outcome] because [synthesis of key 
 
 ```markdown
 # [DECISION NAME] STRATEGIC PROOF
+
+## STRATEGIC QUESTION
+Given [current position/context] and [key constraints], what is the optimal [approach/strategy/decision] to achieve [specific outcome] within [timeline/capital] constraints?
 
 ## PROPOSITION
 Given [specific constraints], [specific initiative/choice] is the optimal path to achieve [specific outcome] within [timeframe].
@@ -641,7 +696,7 @@ Given [specific constraints], [specific initiative/choice] is the optimal path t
 **Optional: Mathematical validation (only if making quantitative claims)
 ## BASED ON [proven constraint data], TO ACHIEVE [strategic outcome], WE NEED
 [Mathematical validation showing feasibility - ONLY if your proposition makes quantitative claims]
-[Use mathematical patterns from Section 2.4 as needed]
+[Use mathematical patterns from Section 2.5 as needed]
 
 ## THEREFORE WE WILL VALIDATE BY ACHIEVING
 - [Specific milestone 1]: [Clear success criteria] by [date]
@@ -669,20 +724,23 @@ This decision builds on prior decisions about:
 ```markdown
 ## MATHEMATICAL CONNECTIONS
 [Detailed calculations connecting strategy to quantitative outcomes]
-[Use mathematical patterns from Section 2.4: Capital Efficiency Analysis, Capacity Planning, Portfolio Optimization]
+[Use mathematical patterns from Section 2.5: Capital Efficiency Analysis, Capacity Planning, Portfolio Optimization]
 ```
 
 **Meta-Reasoning Assessment** (Include for complex decisions requiring bias analysis):
 ```markdown  
 ## CONCLUSION
 [Include argument quality assessment within conclusion rather than separate section]
-[Use guidance from Section 2.6 for structuring quality assessment]
+[Use guidance from Section 2.7 for structuring quality assessment]
 ```
 
 ### LOGICAL FLOW CONSTRUCTION EXAMPLES
 
 **Simple Resource Allocation Decision:**
 ```markdown
+## STRATEGIC QUESTION
+Given our current team capacity and runway constraints, what is the optimal resource allocation strategy to achieve market validation within 6 months?
+
 ## SINCE [we have 3 engineers and 6-month runway]
 [Foundation: what our constraints enable]
 
@@ -694,7 +752,10 @@ This decision builds on prior decisions about:
 ```
 
 **Complex Strategic Direction Decision with Dependencies:**
-```markdown  
+```markdown
+## STRATEGIC QUESTION
+Given competitive dynamics and technical capabilities, what is the optimal strategic direction to achieve market leadership within funding timeline constraints?
+
 ## GIVEN [current market position and technical capabilities]
 [Foundation: where we are in the environment]
 
@@ -719,14 +780,17 @@ This decision builds on prior decisions about:
 
 **Process Improvement Decision:**
 ```markdown
+## STRATEGIC QUESTION
+Given current operational bottlenecks and efficiency constraints, what is the optimal process improvement strategy to achieve target throughput within implementation timeline?
+
 ## SINCE [current process creates bottlenecks]
 [Foundation: why change is needed]
 
 ## WE CHOOSE [automated workflow] BECAUSE
-[Simple justification - see choice patterns in Section 2.4 for alternatives structure]
+[Simple justification - see choice patterns in Section 2.5 for alternatives structure]
 
 ## BASED ON [current throughput data], TO ACHIEVE [50% efficiency improvement], WE NEED
-[Mathematical validation - see mathematical patterns in Section 2.4 for detailed approaches]
+[Mathematical validation - see mathematical patterns in Section 2.5 for detailed approaches]
 
 ## THEREFORE WE WILL VALIDATE BY ACHIEVING
 [Tests for process improvement claims]

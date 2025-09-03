@@ -38,6 +38,8 @@ A comprehensive AI evaluation system for analyzing strategic documents using the
 - Confidence calibration and professional interaction standards
 - Integration testing between framework components
 
+📖 **[Strategic Proof Agent Guide](docs/strategic-proof-agent.md)** - Comprehensive documentation of how the AI evaluation system works, including detailed explanations of all five operating modes and when to use each one.
+
 ### 🤖 [Strategic Framework Maintainer](.claude/agents/strategic-framework-maintainer.md)
 Specialized AI subagent for maintaining framework consistency and effectiveness:
 

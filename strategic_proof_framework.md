@@ -66,40 +66,58 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 ### 2.1 STRATEGIC QUESTION (Strategic North Star)
 **What you're optimizing for:** State the fundamental strategic question that serves as your decision-making filter and strategic focus anchor.
 
-**Template:** "Given [current position/context] and [key constraints], what is the optimal [approach/strategy/decision] to achieve [specific outcome] within [timeline/capital] constraints?"
+**Strategic Question Principles:** Rather than forcing a rigid template, effective strategic questions follow these core principles:
+
+- **Clarify strategic purpose** - Make explicit what you're optimizing for or deciding between
+- **Acknowledge key constraints** - Reference the limiting factors that bound your decision space  
+- **Specify success criteria** - Define what measurable outcome you're trying to achieve
+- **Focus on strategic navigation** - Address system-level decisions, not tactical execution steps
 
 **Strategic Question Quality Criteria:**
 
-**CLARITY OF PURPOSE:** The question should make it crystal clear what you're optimizing for, preventing scope drift and maintaining strategic focus.
-- ✅ "Given our AI interviewing development progress (Week 2 of 10-week project) and technical capabilities, what is the optimal execution strategy to achieve proven VC fundability metrics (functional technology + paying customers + operational efficiency) within our capital timeline constraints?"
+**CLARITY OF PURPOSE:** The question should make it crystal clear what you're optimizing for or deciding between, preventing scope drift and maintaining strategic focus.
+- ✅ "What is the optimal execution strategy to achieve proven VC fundability metrics within our capital timeline constraints?"
+- ✅ "Should we prioritize speed or quality in our MVP development given competitive pressures?"
 - ❌ "What should we do next?" (too vague, no optimization target)
 - ❌ "How do we build our product?" (tactical focus, missing strategic context)
 
-**STRATEGIC SCOPE:** The question must address system navigation through constraints and dynamics, not just tactical execution.
-- ✅ "Given competitive landscape dynamics and our current market position, what is the optimal positioning strategy to achieve sustainable competitive advantage within 18-month runway constraints?"
+**STRATEGIC SCOPE:** The question must address system-level navigation through constraints and dynamics, not just tactical execution.
+- ✅ "Which market segment should we validate first given our technical capabilities and competitive landscape?"
+- ✅ "How do we balance technical debt versus new features given our engineering capacity constraints?"
 - ❌ "What features should we build?" (tactical scope without strategic navigation context)
 
 **CONSTRAINT ACKNOWLEDGMENT:** The question should explicitly reference the key constraints that bound the strategic decision space.
-- ✅ "Given regulatory requirements and current compliance capabilities, what is the optimal market entry strategy to achieve regulatory approval and revenue targets within capital constraints?"
+- ✅ "What pricing model should we test first given our target market and revenue requirements?"
+- ✅ "How do we navigate regulatory requirements while maintaining development velocity given our compliance capabilities?"
 - ❌ "How do we maximize revenue?" (ignores constraint reality)
 
-**OUTCOME SPECIFICITY:** The question should specify what success looks like in measurable terms.
-- ✅ "Given team capacity and technical constraints, what is the optimal development approach to achieve 10 paying customers and 90% uptime within 6-month timeline?"
+**OUTCOME SPECIFICITY:** The question should specify what measurable success looks like or what specific decision needs to be made.
+- ✅ "What is the optimal development approach to achieve 10 paying customers and 90% uptime within 6-month timeline?"
+- ✅ "Which customer segment offers the highest probability of early adoption given our product capabilities?"
 - ❌ "How do we succeed?" (success undefined)
 
-**Examples by Decision Type:**
+**Strategic Question Formats by Type:**
 
-**Market Entry Strategy:**
-- ✅ "Given our technical capabilities and competitive landscape, what is the optimal market entry sequence to establish market leadership in our target segment within 24-month runway constraints?"
-- ✅ "Given regulatory environment and current compliance readiness, what is the optimal approach to achieve market entry approval and first revenue within available capital?"
+**Optimization Questions (Finding best path):**
+- ✅ "Given our technical capabilities and competitive landscape, what is the optimal market entry sequence to establish market leadership within runway constraints?"
+- ✅ "Given team expertise and development timeline constraints, what is the optimal resource allocation strategy to achieve MVP validation and Series A readiness?"
 
-**Resource Allocation Strategy:**
-- ✅ "Given team expertise and development timeline constraints, what is the optimal resource allocation strategy to achieve MVP validation and Series A readiness within 18-month runway?"
-- ✅ "Given current capabilities and market opportunity size, what is the optimal investment focus to maximize competitive positioning within available capital?"
+**Prioritization Questions (Choosing focus):**
+- ✅ "What should we prioritize first - product development or customer discovery - given our 6-week runway and current progress?"
+- ✅ "Which market segment should we validate first given our technical capabilities and capital constraints?"
 
-**Partnership Strategy:**
-- ✅ "Given our current market position and partner landscape dynamics, what is the optimal partnership approach to achieve market access and revenue acceleration within timeline constraints?"
-- ✅ "Given technical integration requirements and relationship capital constraints, what is the optimal partner selection and engagement strategy to achieve go-to-market acceleration?"
+**Trade-off Questions (Balancing competing factors):**
+- ✅ "Should we prioritize speed or quality in our MVP development given our timeline and competitive pressures?"
+- ✅ "How do we balance technical debt reduction versus new feature development given our engineering capacity?"
+
+**Discovery Questions (Exploring unknowns):**
+- ✅ "Which customer segment offers the highest probability of early adoption given our product capabilities and market dynamics?"
+- ✅ "What pricing model should we test first to maximize revenue potential within our target market constraints?"
+
+**Navigation Questions (Managing complexity):**
+- ✅ "How do we navigate regulatory requirements while maintaining development velocity given our compliance capabilities?"
+- ✅ "What partnership strategy best positions us for market access given our current relationships and competitive landscape?"
+
 
 **Strategic Question vs Proposition Relationship:**
 - **Strategic Question:** Remains stable throughout strategic development - the fundamental optimization challenge

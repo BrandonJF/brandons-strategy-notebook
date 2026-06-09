@@ -13,29 +13,29 @@
 ## 1. OVERVIEW & QUICK START
 
 ### What This Framework Does
-This framework helps anyone create logically sound strategic arguments for important decisions. Based on mathematical proof principles and systems thinking, it ensures decisions are grounded in evidence and reasoning rather than assumptions or intuition.
+This framework helps you create logically sound arguments for important decisions. It's based on mathematical proof principles and systems thinking. It ensures your decisions are grounded in evidence and reasoning rather than guesses or gut feelings.
 
 ### Systems Thinking Foundation
-Strategic decisions operate within complex systems - whether business markets, academic fields, personal relationships, or policy environments. **Systems thinking** means first mapping the environment you're operating in, then finding optimal paths through it, rather than making decisions in isolation. This framework structures that process:
+Strategic decisions happen within complex systems - business markets, academic fields, personal relationships, or policy environments. **Systems thinking** means mapping the environment you're in first, then finding the best paths through it, rather than making decisions in isolation. This framework structures that process:
 
-1. **Map the System** (Constraints) - Identify what's fixed, what's changeable, and what you're choosing to focus on
-2. **Navigate the System** (Logic Chain) - Chart the optimal path from where you are to where you want to be
-3. **Test System Understanding** (Validation) - Verify your map matches reality through measurable feedback
+1. **Map the System** (Constraints) - Figure out what's fixed, what can change, and what you're choosing to focus on
+2. **Navigate the System** (Logic Chain) - Chart the best path from where you are to where you want to be
+3. **Test System Understanding** (Validation) - Check that your map matches reality through measurable feedback
 
 ### Capital in Strategic Context
-Throughout this framework, **"capital"** refers to any finite resource you can invest to generate returns - including time, money, attention, relationships, expertise, reputation, energy, and access. Thinking in capital terms forces you to recognize that all resources are scarce and require smart allocation decisions within whatever system you're operating in.
+Throughout this framework, **"capital"** means any limited resource you can invest to get returns. This includes time, money, attention, relationships, expertise, reputation, energy, and access. Thinking in capital terms helps you recognize that all resources are limited and require smart choices about how to use them.
 
 ### When to Use This Framework
 
 **STRATEGIC FOCUS: This framework is for justifying CHOICES first, with tactical elements included only after strategic justification.**
 
 **Use this framework for:**
-- **Strategic navigation decisions:** "How do we optimally navigate system constraints to achieve outcome X while accounting for change and uncertainty?"
-- **Resource allocation within systems:** "How should we deploy limited capital across time given system dynamics and evolving constraints?"
-- **Market positioning with temporal dynamics:** "How do we position strategically given current system state and anticipated system changes?"
-- **Capability development strategy:** "How do we build capabilities over time given system constraints and competitive dynamics?"
-- **Risk/uncertainty management:** "How do we navigate uncertainty while optimizing capital allocation within system constraints?"
-- **Alternative comparison:** "Given system constraints and dynamics, which approach optimizes our strategic position?"
+- **Strategic navigation decisions:** "How do we best navigate our constraints to achieve outcome X while dealing with change and uncertainty?"
+- **Resource allocation:** "How should we spend our limited resources over time given changing constraints?"
+- **Market positioning:** "How do we position ourselves given our current situation and expected changes?"
+- **Capability development:** "How do we build capabilities over time given our constraints and competition?"
+- **Risk management:** "How do we handle uncertainty while making the best use of our resources?"
+- **Comparing alternatives:** "Given our constraints, which approach gives us the best strategic position?"
 
 **TACTICAL ELEMENTS ARE ACCEPTABLE WHEN:**
 - Strategic choice is first justified with proper reasoning and alternative consideration
@@ -48,44 +48,44 @@ Throughout this framework, **"capital"** refers to any finite resource you can i
 - **Project management without strategic context:** Timeline planning, resource scheduling, task coordination as standalone activities
 - **Implementation-first documents:** Technical specifications or operational procedures presented before strategic choice justification
 
-**STRATEGIC TEST:** If your document primarily answers "How should we execute this approach?" without first proving "Why is this the optimal approach among alternatives?" - you need to establish strategic justification before including tactical elements.
+**STRATEGIC TEST:** If your document mainly answers "How should we do this?" without first proving "Why is this the best approach compared to alternatives?" - you need to prove your strategic choice before describing execution.
 
-**SYSTEM NAVIGATION FOCUS:** Strategic proofs must demonstrate understanding of:
-- Current system state and constraints
-- How system dynamics affect strategy over time
-- How to adapt to changing constraints and opportunities
-- Optimal path through system complexity given uncertainty
-- Capital allocation across time given system evolution
+**SYSTEM NAVIGATION FOCUS:** Strategic proofs must show you understand:
+- Your current situation and constraints
+- How changing conditions affect your strategy over time
+- How to adapt when constraints and opportunities change
+- The best path through complexity given uncertainty
+- How to spend your limited resources over time as things evolve
 
 ### How to Get Started
-1. **Start with your Strategic Question** - What fundamental optimization challenge are you addressing? What are you trying to optimize for given your constraints?
-2. **Define your decision clearly** - What specific choice are you making to answer that strategic question?
+1. **Start with your Strategic Question** - What core challenge are you addressing? What are you trying to achieve given your constraints?
+2. **Define your decision clearly** - What specific choice are you making to answer that question?
 3. **Use the Universal Template** (Section 3) as your starting structure
 4. **Work through each framework section** (Section 2) to build your strategic proof
-5. **Apply the validation testing approach** to create measurable checkpoints
-6. **Review against Common Pitfalls** (Section 4) to strengthen your reasoning
-7. **Use the Analysis Methodology** (Section 5) for evaluation and improvement
+5. **Create measurable checkpoints** using the validation testing approach
+6. **Check against Common Pitfalls** (Section 4) to strengthen your reasoning
+7. **Use the Analysis Methodology** (Section 5) to evaluate and improve
 
 ---
 
 ## 2. CORE FRAMEWORK STRUCTURE
 
-### 2.1 STRATEGIC QUESTION (The Enduring Challenge)
-**Purpose:** Define the stable optimization challenge you're addressing - the enduring question about how to navigate system constraints effectively.
+### 2.1 STRATEGIC QUESTION (The Lasting Challenge)
+**Purpose:** Define the stable challenge you're addressing - the lasting question about how to navigate your constraints effectively.
 
-**Strategic Question Principles:** Rather than forcing a rigid template, effective strategic questions follow these core principles:
+**Strategic Question Principles:** Rather than forcing a rigid template, good strategic questions follow these core principles:
 
-- **Clarify strategic purpose** - Make explicit what you're optimizing for or deciding between
-- **Acknowledge key constraints** - Reference the limiting factors that bound your decision space
+- **Clarify your purpose** - Make clear what you're trying to achieve or decide between
+- **Acknowledge key constraints** - Reference the limiting factors that bound your choices
 - **Specify success criteria** - Define what measurable outcome you're trying to achieve
-- **Focus on strategic navigation** - Address system-level decisions, not tactical execution steps
+- **Focus on strategic navigation** - Address big-picture decisions, not tactical execution steps
 
 **Strategic Question Quality Criteria:**
 
-**CLARITY OF PURPOSE:** The question should make it crystal clear what you're optimizing for or deciding between, preventing scope drift and maintaining strategic focus.
-- ✅ "What is the optimal execution strategy to achieve proven VC fundability metrics within our capital timeline constraints?"
+**CLARITY OF PURPOSE:** The question should make it crystal clear what you're trying to achieve or decide, preventing scope drift and maintaining focus.
+- ✅ "What is the best execution strategy to achieve proven VC funding metrics within our timeline constraints?"
 - ✅ "Should we prioritize speed or quality in our MVP development given competitive pressures?"
-- ❌ "What should we do next?" (too vague, no optimization target)
+- ❌ "What should we do next?" (too vague, no clear goal)
 - ❌ "How do we build our product?" (tactical focus, missing strategic context)
 
 **STRATEGIC SCOPE:** The question must address system-level navigation through constraints and dynamics, not just tactical execution.
@@ -356,6 +356,43 @@ Definitions must be **pure concept clarification** with **no strategic arguments
 
 Constraints define the system you're operating within. Proper constraint mapping is essential for effective system navigation - misunderstanding system properties leads to failed strategies regardless of logical reasoning quality.
 
+**CONSTRAINT MINIMALISM PRINCIPLE:** Constraints should be bare fact statements only. All supporting evidence, calculations, analysis, and strategic reasoning belong in GIVEN sections of your logical argument chain, not in the constraints section.
+
+**Why Constraint Minimalism:**
+- **Constraints state WHAT exists** (the limitation itself)
+- **GIVEN sections explain WHY it matters** (the supporting evidence and analysis)
+- **GIVEN sections show WHAT we do about it** (the strategic response)
+- Maintains clear 1:1 mapping between constraints and logical argument sections
+
+**Constraint Compression vs Expansion:**
+
+❌ **BLOATED (Contains detail that belongs in GIVEN section):**
+```
+**Team Capacity Limitations:**
+* Three-person founding team (CEO, CTO, CPO) limiting parallel execution capacity
+* CTO currently working 80-100 hours/week at capacity, cannot sustainably work more
+* Team is pre-product preventing immediate customer validation
+* CEO time must split between capital acquisition and operations
+```
+
+✅ **MINIMAL (Bare fact only):**
+```
+**CURRENT CONSTRAINTS:**
+* Limited team capacity (3-person founding team)
+```
+
+✅ **THEN IN LOGICAL BODY:**
+```
+## GIVEN we have limited team capacity
+
+We have only 3 people (CEO, CTO, CPO). CTO is currently working 80-100 hours/week
+at capacity and cannot sustainably work more without affecting health. CEO time
+must split between capital acquisition and operations. We're pre-product preventing
+immediate customer validation.
+
+THEREFORE we choose [strategic decision based on this constraint]
+```
+
 #### IMMUTABLE CONSTRAINTS (Fixed System Properties)
 **Purpose:** Unchangeable rules and facts that limit everyone operating in this environment.
 
@@ -374,6 +411,8 @@ Constraints define the system you're operating within. Proper constraint mapping
 - Established norms, protocols, or standards that define how things work
 
 **Results of prior decisions that can't be reversed:** (existing contracts, launched products, established relationships, regulatory commitments)
+
+**Format:** Brief factual statement only - save detailed explanation for GIVEN sections
 
 #### CURRENT CONSTRAINTS (Current System Position)
 **Purpose:** Your current position and limitations - things that exist now but could change through separate strategic choices.
@@ -394,6 +433,8 @@ Constraints define the system you're operating within. Proper constraint mapping
 
 **Results of prior decisions that could be changed through other strategic choices:** (current processes, positioning choices, relationship structures, capability focus areas)
 
+**Format:** Brief factual statement only - save detailed explanation for GIVEN sections
+
 **How to Handle Decision Dependencies:**
 - **Prior decisions** that created current limitations belong here as constraints
 - **Future decisions** you depend on should be referenced in your logical argument chain with premise indicators like "GIVEN our dependency on..."
@@ -411,10 +452,12 @@ Constraints define the system you're operating within. Proper constraint mapping
 - Which system opportunities or challenges you're prioritizing versus deferring
 
 **Capital Deployment Parameters:**
-- How you're choosing to allocate different types of capital within the system for this decision  
+- How you're choosing to allocate different types of capital within the system for this decision
 - What utilization rate or investment level you're committing to within system constraints
 - Which capital development opportunities you're pursuing versus postponing
 - What risk level and timeline you're accepting for system navigation in this initiative
+
+**Format:** Brief factual statement only - save detailed explanation for GIVEN sections
 
 **Constraint Writing Guidance:**
 - **Include decision results naturally** - "Prior hiring decision resulted in team of 3 engineers" goes in CURRENT CONSTRAINTS
@@ -1046,6 +1089,34 @@ WE VALIDATE BY [specific test] achieving [measurable outcome] by [date]
 ❌ **Wrong:** Including every term mentioned in proof, creating unnecessarily long definitions section
 ✅ **Right:** Core framework concepts in definitions, supporting terms defined inline when first mentioned
 **Fix:** Apply definition streamlining principle - include only terms used 3+ times throughout proof. Define contextual and supporting terms inline to avoid bloat.
+
+### 3.7 **Constraint Bloat (Violating Constraint Minimalism)**
+❌ **Wrong:** Including extensive detail, calculations, and analysis in constraints section
+✅ **Right:** Bare fact statements in constraints, detailed analysis in GIVEN sections
+**Fix:** Apply constraint minimalism - constraints state WHAT exists (brief), GIVEN sections explain WHY it matters and WHAT we do about it (detailed). Maintain 1:1 mapping between constraints and GIVEN sections.
+
+**Example of Bloat:**
+```
+❌ WRONG:
+**CURRENT CONSTRAINTS:**
+* Three-person founding team (CEO, CTO, CPO) limiting parallel execution capacity
+* CTO currently working 80-100 hours/week at capacity, cannot sustainably work more
+* Team is pre-product preventing immediate customer validation
+* CEO time must split between capital acquisition and operations
+```
+
+**Applying Constraint Minimalism:**
+```
+✅ RIGHT - IN CONSTRAINTS:
+* Limited team capacity (3-person founding team)
+
+✅ RIGHT - IN LOGICAL BODY:
+## GIVEN we have limited team capacity
+We have only 3 people (CEO, CTO, CPO). CTO is currently working 80-100 hours/week
+at capacity and cannot sustainably work more. CEO time must split between capital
+acquisition and operations. We're pre-product preventing immediate customer validation.
+THEREFORE we choose [strategic decision]
+```
 
 ### DETAILED STRATEGIC ERRORS
 
